@@ -18,3 +18,7 @@ h1{
   width: 100%;
   background-color: blue;
 }
+
+#footertext{
+  text-align: center;
+}
