@@ -3,4 +3,5 @@ h2 {
   background-color: blue;
   display: inline-block;
   border-radius: 10px;
+  border: 1px;
 }
