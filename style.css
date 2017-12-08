@@ -10,3 +10,7 @@ h1{
   display: inline-block;
   border-radius: 10px;
 }
+
+.footer{
+  background-color: blue;
+}
