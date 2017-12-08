@@ -1,1 +1,6 @@
-
+h2 {
+  padding: 5px;
+  background-color: orange;
+  display: inline-block;
+  border-radius: 10px;
+}
