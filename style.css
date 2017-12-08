@@ -5,6 +5,7 @@ h2 {
   border-radius: 10px;
 }
 h1{
+  margin: auto;
   text-align: center;
   padding: 5px;
   background-color: yellow;
