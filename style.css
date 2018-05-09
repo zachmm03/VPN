@@ -58,3 +58,10 @@ iframe {
   margin-right:5px;
   margin-left:5px;
 }
+
+#nav-div {
+  background-color:orange;
+  margin-left:15%;
+  margin-right:15%;
+  margin-top:2%
+}
