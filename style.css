@@ -1,3 +1,10 @@
+.nav-text {
+  padding: 3px;
+  background-color: red;
+  display: inline-block;
+  border-radius: 10px;
+}
+
 h2 {
   padding: 3px;
   background-color: blue;
